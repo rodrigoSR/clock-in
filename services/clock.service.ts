@@ -1,5 +1,5 @@
 export class ClockService {
-    public function saveTime() {
-
-    }
+  public saveTime() {
+    console.log('Saving time');
+  }
 }
